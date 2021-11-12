@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Arskin-Fertrubble
 - 👀 I’m interested in everything. 
-- 🌱 I’m old but not too old to lear. Cut my teeth on machine code and assembler in the  late 1970s. Still going.
+- 🌱 I’m old but not too old to learn. Cut my teeth on machine code and assembler in the  late 1970s. Years of Delphi and general DBMS development. Still going but slowing down.
 - 💞️ I’m not really looking to collaborate on anything just now  
 - 📫 Reach me on Twitter @ArskinF
 
